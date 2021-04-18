@@ -1,5 +1,3 @@
-package com.sorting.yes;
-
 public class SequentialSearch {
     public static void main(String[] args) {
         int[] A_variabel = {4, 3, 53, 74, 9, 7, 63};

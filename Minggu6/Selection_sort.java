@@ -1,5 +1,3 @@
-package com.sorting.yes;
-
 public class Selection_sort {
     void selection_sort(int[] arr) {
         int n = arr.length;

@@ -1,5 +1,3 @@
-package com.sorting.yes;
-
 public class bnrysrch {
     int binary_search(int arr[], int l, int r, int x){
         if (r >= l) {

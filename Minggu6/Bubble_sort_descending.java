@@ -1,5 +1,3 @@
-package com.sorting.yes;
-
 public class Bubble_sort_descending {
     static void bubblesortdescend(int[] arr) {
         int n = arr.length;
